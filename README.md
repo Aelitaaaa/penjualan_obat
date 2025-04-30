@@ -1,4 +1,4 @@
-readme_content = """# 📦 Inventaris Obat API
+ Inventaris Obat API
 
 Sistem backend untuk manajemen inventaris obat menggunakan Laravel. API ini memungkinkan pengelolaan data obat, suplier, pembelian obat, stok opname, dan penjualan obat. Cocok digunakan untuk aplikasi farmasi, apotek, atau rumah sakit.
 
@@ -11,8 +11,8 @@ Sistem backend untuk manajemen inventaris obat menggunakan Laravel. API ini memu
 - Pencatatan Pembelian dan Penjualan Obat
 - Stok Opname (penyesuaian stok manual)
 - Perhitungan otomatis stok tersedia
-- Autentikasi pengguna (jika menggunakan auth)
-- Dokumentasi API dengan Postman (opsional)
+- Autentikasi pengguna 
+
 
 ---
 
@@ -20,12 +20,7 @@ Sistem backend untuk manajemen inventaris obat menggunakan Laravel. API ini memu
 
 - **Framework:** Laravel 8
 - **Database:** MySQL
-- **ORM:** Eloquent
-- **Autentikasi:** Laravel Auth / Sanctum (jika digunakan)
-- **Testing:** PHPUnit / Postman
-- **Lainnya:** MVC Architecture, RESTful API
+- **Autentikasi:** Laravel Auth / Sanctum 
 
----
 
-## 📂 Struktur Proyek (Singkat)
 
